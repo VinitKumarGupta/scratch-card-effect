@@ -11,7 +11,7 @@ A fun and interactive scratch card effect built with HTML, CSS, and JavaScript. 
 
 ## Preview
 
-![Preview](scratch-card.jpeg)
+![Preview](preview-img.png)
 
 ## Installation
 
